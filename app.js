@@ -108,7 +108,7 @@ bot.on('message', async (msg) => {
 
           })
         }, 1200);
-        console.log(NewQuestion)
+       
 
       }
 
